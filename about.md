@@ -17,4 +17,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:Moore.li@northeastern.edu)
+[Moore.li@northeastern.edu](mailto:Moore.li@northeastern.edu)
